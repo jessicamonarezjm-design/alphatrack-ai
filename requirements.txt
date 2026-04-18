@@ -1,0 +1,8 @@
+alpaca-trade-api
+flask
+flask-cors
+requests
+pandas
+numpy
+schedule
+gunicorn
